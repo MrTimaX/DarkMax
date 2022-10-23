@@ -1,3 +1,5 @@
+## DARKMAX-MD
+
 <p align="center">
 <img src="https://telegra.ph/file/18012f4de554fe83f26bc.jpg" alt="nz" width="350"/>
 </p>
@@ -12,8 +14,8 @@
 ## Thanks To
 * [@adiwajshing](https://github.com/adiwajshing/) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
 * [@yusufusta](https://github.com/yusufusta/) for coded [WhatsAsena](https://github.com/yusufusta/WhatsAsena) 
-* [@sisula](https://github.com/sisula/) & [@joka](https://github.com/MrJoka-Thejaka/) for all the helps 🤝
+* [@White Hacker](https://github.com/nethsaragimhan)  for all the helps 🤝
  
 
 
-License: [MIT](https://github.com/Gojo-Satoru/LICENSE)
+License: [MIT](https://github.com/MrTimaX/DarkMax)/LICENSE)
